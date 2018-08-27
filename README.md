@@ -5,9 +5,13 @@ This is decentralized voting web application. People can vote the favorite crypt
 ##### start ganache (make sure using teh default port 8545)
 $ ganache-cli
 
+#### Execute the following command in the root of project
+
 $ truffle compile
 
 $ truffle migrate
+
+$ npm install
 
 $ npm run dev
 
